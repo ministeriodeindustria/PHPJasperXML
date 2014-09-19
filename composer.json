@@ -1,0 +1,18 @@
+{
+    "name": "ministeriodeindustria/phpjasperxml",
+    "type": "library",
+    "description": "PHPJasperXML reads jrxmls templates a generates PDFs",
+    "homepage": "https://github.com/ministeriodeindustria/PHPJasperXML",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Alejandro Sanchez",
+            "email": "sanchezalejandro86@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [""]
+    },
+    "require": {
+    }
+}
